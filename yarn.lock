@@ -142,12 +142,12 @@ callsites@^3.0.0:
   resolved "https://registry.yarnpkg.com/callsites/-/callsites-3.1.0.tgz#b3630abd8943432f54b3f0519238e33cd7df2f73"
   integrity sha512-P8BjAsXvZS+VIDUI11hHCQEv74YT67YUi5JJFNWIqL235sBmjX4+qx9Muvls5ivyNENctx46xQLQ3aTuE7ssaQ==
 
-chalk-pipe@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/chalk-pipe/-/chalk-pipe-3.0.0.tgz#57dfd9b9dae6615d32a2dd611ac691f8aff47504"
-  integrity sha512-otk/jMuxyW3pw1C3Rpyyc5bnrt2uZ717l8w28labXBblug25TmZCaGNyILLGATTXUtUE6Yiw6AoSHNMNgZ2Qkg==
+chalk-pipe@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/chalk-pipe/-/chalk-pipe-4.0.0.tgz#084c122c0f42db656036d331bfba70396cbe1962"
+  integrity sha512-RbCYs/FDouEBoDSBLcHzUv44lpIR2UgeXGMrr8sSKjhJ2jJZ+gBJ89ZKo3XHqMXHFQRdU7oDcw+Lbg8rDA/hqw==
   dependencies:
-    chalk "^3.0.0"
+    chalk "^4.0.0"
     css-color-names "^1.0.0"
 
 chalk@^2.0.0, chalk@^2.4.1, chalk@^2.4.2:
