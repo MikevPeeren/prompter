@@ -135,13 +135,12 @@ callsites@^3.0.0:
   resolved "https://registry.yarnpkg.com/callsites/-/callsites-3.1.0.tgz#b3630abd8943432f54b3f0519238e33cd7df2f73"
   integrity sha512-P8BjAsXvZS+VIDUI11hHCQEv74YT67YUi5JJFNWIqL235sBmjX4+qx9Muvls5ivyNENctx46xQLQ3aTuE7ssaQ==
 
-chalk-pipe@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/chalk-pipe/-/chalk-pipe-4.0.0.tgz#084c122c0f42db656036d331bfba70396cbe1962"
-  integrity sha512-RbCYs/FDouEBoDSBLcHzUv44lpIR2UgeXGMrr8sSKjhJ2jJZ+gBJ89ZKo3XHqMXHFQRdU7oDcw+Lbg8rDA/hqw==
+chalk-pipe@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/chalk-pipe/-/chalk-pipe-5.0.0.tgz#003d6aaaf2744b431582b2be7c8669633db8653a"
+  integrity sha512-KyLXrakaMLcu4kk280vWaGLoHQ7bX0M8MvVF/s67tIt6WcHPkqpyRLcuyuT2D0zsXaPpHcCvYpBOTs7irHhQTg==
   dependencies:
-    chalk "^4.0.0"
-    css-color-names "^1.0.0"
+    chalk "^4.1.0"
 
 chalk@^2.0.0, chalk@^2.4.1:
   version "2.4.2"
@@ -248,11 +247,6 @@ cross-spawn@^7.0.0:
     path-key "^3.1.0"
     shebang-command "^2.0.0"
     which "^2.0.1"
-
-css-color-names@^1.0.0:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/css-color-names/-/css-color-names-1.0.1.tgz#6ff7ee81a823ad46e020fa2fd6ab40a887e2ba67"
-  integrity sha512-/loXYOch1qU1biStIFsHH8SxTmOseh1IJqFvy8IujXOm1h+QjUdDhkzOrR5HG8K8mlxREj0yfi8ewCHx0eMxzA==
 
 diff@^4.0.1:
   version "4.0.2"
