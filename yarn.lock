@@ -135,10 +135,10 @@ callsites@^3.0.0:
   resolved "https://registry.yarnpkg.com/callsites/-/callsites-3.1.0.tgz#b3630abd8943432f54b3f0519238e33cd7df2f73"
   integrity sha512-P8BjAsXvZS+VIDUI11hHCQEv74YT67YUi5JJFNWIqL235sBmjX4+qx9Muvls5ivyNENctx46xQLQ3aTuE7ssaQ==
 
-chalk-pipe@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/chalk-pipe/-/chalk-pipe-5.0.0.tgz#003d6aaaf2744b431582b2be7c8669633db8653a"
-  integrity sha512-KyLXrakaMLcu4kk280vWaGLoHQ7bX0M8MvVF/s67tIt6WcHPkqpyRLcuyuT2D0zsXaPpHcCvYpBOTs7irHhQTg==
+chalk-pipe@^5.1.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/chalk-pipe/-/chalk-pipe-5.1.1.tgz#6305747ace9ff37c318dcf8c0cf419475449ee06"
+  integrity sha512-rtJvGrqUKNDyJ/8AfqVo1WGRX2yT9/f5lCyh6aZzrltz7j9QrbJN6xwds7PRFRqanpKmDKjkwKQtCflrUgf4RA==
   dependencies:
     chalk "^4.1.0"
 
