@@ -13,7 +13,7 @@
     "@types/chalk-pipe": "^2.0.0",
     "@types/inquirer": "^7.3.3",
     "chalk-pipe": "^5.0.0",
-    "inquirer": "^7.3.3"
+    "inquirer": "^8.1.2"
   },
   "devDependencies": {
     "husky": "^4.3.8",
