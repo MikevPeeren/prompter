@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/chalk-pipe": "^2.0.0",
-    "@types/inquirer": "^8.2.0",
+    "@types/inquirer": "^8.2.1",
     "chalk-pipe": "^5.0.0",
     "inquirer": "^8.2.2"
   },
