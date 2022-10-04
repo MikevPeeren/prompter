@@ -12,7 +12,7 @@
   "dependencies": {
     "@types/chalk-pipe": "^2.0.0",
     "@types/inquirer": "^9.0.2",
-    "chalk-pipe": "^5.0.0",
+    "chalk-pipe": "^5.1.2",
     "inquirer": "^9.1.2"
   },
   "devDependencies": {
