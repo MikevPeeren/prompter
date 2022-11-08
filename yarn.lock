@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@types/chalk-pipe@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@types/chalk-pipe/-/chalk-pipe-2.0.0.tgz#bc17c35fc7568e7a48fcf9505efd4e6a997b34f2"
-  integrity sha512-ToBa2nn7gYDmFgQjCqw7COvnBaBbRlMZPNICAJiYIJtSPU5OJiHkRR+bX1yeBijI+isgxlK3ux4urTHOWmADSQ==
+"@types/chalk-pipe@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@types/chalk-pipe/-/chalk-pipe-2.0.1.tgz#4cdf39d0a9602cf81a106d6d5e9b88dd3d282a5c"
+  integrity sha512-0umI75TtFh/dr3sHrMPO1LHoUTkax1e8CeF1rCHXKmKpYc1R46Ypzsis/EI2db/+K/67DhCJ2hbhOsw02xkm0A==
   dependencies:
     chalk "^2.4.1"
 

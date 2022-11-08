@@ -10,7 +10,7 @@
   "author": "MikevPeeren",
   "license": "ISC",
   "dependencies": {
-    "@types/chalk-pipe": "^2.0.0",
+    "@types/chalk-pipe": "^2.0.1",
     "@types/inquirer": "^9.0.2",
     "chalk-pipe": "^5.1.2",
     "inquirer": "^9.1.4"
